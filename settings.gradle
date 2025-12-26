@@ -1,0 +1,2 @@
+rootProject.name = "RegistroVehicularApp"
+include(":app")
